@@ -4,15 +4,6 @@ Beautiful terminal lyrics utility.
 
 Sonarae displays synchronized song lyrics directly in your terminal with smooth animated rendering and multiple visual styles.
 
-## Features
-
-- 🎵 Synchronized lyrics
-- ✨ Animated `karaoke` style
-- 🎯 `focus` style with word-level synchronization
-- 🖥️ Designed for terminal use
-- ⚡ Lightweight and fast
-- 🎨 Clean, minimal interface
-
 ## Usage
 
 ```bash
@@ -51,7 +42,3 @@ sonarae --help
 - A terminal with truecolor support
 - An MPRIS-compatible music player
 - .NET 10
-
-## License
-
-MIT
